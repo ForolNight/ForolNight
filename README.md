@@ -1,18 +1,18 @@
 <h2 align="center">(Hey There 👋🏻)</h2>
-<h1 align="left">I am Badsha.</h1>
-<h3 align="center">I am frontend developer from Bangladesh.</h3>
+<h1 align="left">My Name Is Badsha18T</h1>
+<h3 align="center">I Am A Frontend Game Developer From Bangladesh.</h3>
 
-- 🔭 I’m currently working on **My New Project.**
+- 🔭 I’m Currently Working On **My New Project.**
 
-- 🌱 I’m currently learning **Godot And JavaScript.**
+- 🌱 I’m Currently Learning **Godot And JavaScript.**
 
-- 👯 I’m looking to collaborate **New Members.**
+- 👯 I’m Looking To Collaborate With **New Members.**
 
-- 🤝 I’m looking for help with **Game Projects.**
+- 🤝 I’m Looking For Help With **Game Projects.**
 
-- 👨‍💻 All of my projects are available at [Currently working (🤐)](Currently working (🤐))
+- 👨‍💻 All Of My Projects Are Available At [Currently working (🤐)]
 
-- 📫 How to reach me **Currently working (🤐)**
+- 📫 How To Reach Me **Currently working (🤐)**
 
 - ⚡ Fun fact **I Think, What? (👻)**
 

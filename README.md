@@ -1,5 +1,5 @@
-<h2 align="center">(Hey There 👋🏻)</h2>
-<h1 align="left">My Name Is Badsha18T</h1>
+<h1 align="center">(Hey There 👋🏻)</h1>
+<h2 align="left">My Name Is Badsha18T</h2>
 <h3 align="center">I Am A Frontend Game Developer From Bangladesh.</h3>
 
 - 🔭 I’m Currently Working On **My New Project.**

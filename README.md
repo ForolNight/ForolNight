@@ -1,5 +1,4 @@
 <h1 align="center">(Hey There 👋🏻)</h1>
-<h2 align="left">My Name Is Badsha Hossin</h2>
 <h3 align="left">I'm A Frontend Game Developer From Bangladesh.</h3>
 
 - 🔭 I’m Currently Working On **My New Project.**

@@ -14,8 +14,6 @@
 
 - 📫 How To Reach Me **Currently working (🤐)**
 
-- ⚡ Fun fact **I Think, What? (👻)**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://youtube.com/@forolnight?si=xNVcihj1PMjEjoms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@forolnight?si=xNVcihj1PMjEjoms" height="30" width="40" /></a>

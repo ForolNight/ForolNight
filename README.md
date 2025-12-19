@@ -1,4 +1,4 @@
-<h1 align="center">(Hey👋🏻) I am Badsha</h1>
+<h1 align="center">(Hey👋🏻)<h2>I am Badsha</h2></h1>
 <h3 align="center">A frontend developer from Bangladesh.</h3>
 
 - 🔭 I’m currently working on **My New Project.**
